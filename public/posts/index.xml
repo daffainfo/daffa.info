@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Muhammad Daffa</title>
+    <link>https://daffa.info/posts/</link>
+    <description>Recent content in Posts on Muhammad Daffa</description>
+    <image>
+      <url>https://daffa.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daffa.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 09 Sep 2022 17:01:20 +0000</lastBuildDate><atom:link href="https://daffa.info/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE 2021 24561</title>
+      <link>https://daffa.info/posts/cve-2021-24561/</link>
+      <pubDate>Fri, 09 Sep 2022 17:01:20 +0000</pubDate>
+      
+      <guid>https://daffa.info/posts/cve-2021-24561/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CVE-2021-24519</title>
+      <link>https://daffa.info/posts/cve-2021-24519/</link>
+      <pubDate>Mon, 19 Jul 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/posts/cve-2021-24519/</guid>
+      <description>Vik Rent Car &amp;lt; 1.1.10 - Authenticated Stored Cross-Site Scripting (XSS)</description>
+    </item>
+    
+  </channel>
+</rss>
