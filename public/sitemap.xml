@@ -3,18 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://daffa.info/tags/cve/</loc>
-    <lastmod>2022-08-23T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://daffa.info/cve/cve-2022-36282/</loc>
-    <lastmod>2022-08-23T11:30:03+00:00</lastmod>
+    <loc>https://daffa.info/cve/cve-2022-36340/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-38095/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-38134/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-40132/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-40194/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/cve/</loc>
-    <lastmod>2022-08-23T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/</loc>
-    <lastmod>2022-08-23T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/tags/</loc>
+    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-38470/</loc>
+    <lastmod>2022-09-22T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-36282/</loc>
     <lastmod>2022-08-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/cve/cve-2022-34347/</loc>
@@ -35,6 +53,9 @@
     <loc>https://daffa.info/cve/cve-2022-25618/</loc>
     <lastmod>2022-04-04T11:30:03+00:00</lastmod>
   </url><url>
+    <loc>https://daffa.info/cve/cve-2022-38704/</loc>
+    <lastmod>2022-02-23T11:30:03+00:00</lastmod>
+  </url><url>
     <loc>https://daffa.info/cve/cve-2022-23983/</loc>
     <lastmod>2022-02-21T11:30:03+00:00</lastmod>
   </url><url>
@@ -50,13 +71,19 @@
     <loc>https://daffa.info/cve/cve-2021-24519/</loc>
     <lastmod>2021-07-19T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://daffa.info/tags/markdown/</loc>
+    <loc>https://daffa.info/about/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/blog/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/achievements/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/portfolio/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://daffa.info/tags/text/</loc>
+    <loc>https://daffa.info/tags/profile/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/categories/</loc>

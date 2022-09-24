@@ -9,7 +9,61 @@
       <link>https://daffa.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 23 Aug 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://daffa.info/cve/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Sep 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://daffa.info/cve/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE-2022-36340</title>
+      <link>https://daffa.info/cve/cve-2022-36340/</link>
+      <pubDate>Fri, 23 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-36340/</guid>
+      <description>WordPress MailOptin plugin &amp;lt;= 1.2.49.0 - Unauthenticated Optin Campaign Cache Deletion</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-38095</title>
+      <link>https://daffa.info/cve/cve-2022-38095/</link>
+      <pubDate>Fri, 23 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-38095/</guid>
+      <description>WordPress Advanced Dynamic Pricing for WooCommerce plugin &amp;lt;= 4.1.3 - Cross-Site Request Forgery</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-38134</title>
+      <link>https://daffa.info/cve/cve-2022-38134/</link>
+      <pubDate>Fri, 23 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-38134/</guid>
+      <description>WordPress Customer Reviews for WooCommerce plugin &amp;lt;= 5.3.5 - Authenticated Broken Access Control</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-40132</title>
+      <link>https://daffa.info/cve/cve-2022-40132/</link>
+      <pubDate>Fri, 23 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-40132/</guid>
+      <description>WordPress Seriously Simple Podcasting plugin &amp;lt;= 2.16.0 - Cross-Site Request Forgery</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-40194</title>
+      <link>https://daffa.info/cve/cve-2022-40194/</link>
+      <pubDate>Fri, 23 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-40194/</guid>
+      <description>WordPress Customer Reviews for WooCommerce plugin &amp;lt;= 5.3.5 - Sensitive Information Disclosure</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-38470</title>
+      <link>https://daffa.info/cve/cve-2022-38470/</link>
+      <pubDate>Thu, 22 Sep 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-38470/</guid>
+      <description>WordPress Customer Reviews for WooCommerce plugin &amp;lt;= 5.3.5 - Cross-Site Request Forgery</description>
+    </item>
+    
     <item>
       <title>CVE-2022-36282</title>
       <link>https://daffa.info/cve/cve-2022-36282/</link>
@@ -20,7 +74,7 @@
     </item>
     
     <item>
-      <title>CVE-2021-24519</title>
+      <title>CVE-2022-34347</title>
       <link>https://daffa.info/cve/cve-2022-34347/</link>
       <pubDate>Mon, 22 Aug 2022 11:30:03 +0000</pubDate>
       
@@ -71,6 +125,15 @@
       
       <guid>https://daffa.info/cve/cve-2022-25618/</guid>
       <description>wpDataTables &amp;lt; 2.1.28 - Admin&#43; Stored Cross-Site Scripting</description>
+    </item>
+    
+    <item>
+      <title>CVE-2022-38704</title>
+      <link>https://daffa.info/cve/cve-2022-38704/</link>
+      <pubDate>Wed, 23 Feb 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://daffa.info/cve/cve-2022-38704/</guid>
+      <description>WordPress SEO Redirection plugin &amp;lt;= 8.9 - Cross-Site Request Forgery</description>
     </item>
     
     <item>

@@ -65,7 +65,7 @@ params:
     imageTitle: Muhammad Daffa
     buttons:
       - name: Read More
-        url: profile
+        url: about
 
   # home-info mode
   # homeInfoParams:
@@ -116,7 +116,7 @@ menu:
   main:
     - identifier: profile
       name: About
-      url: /profile/
+      url: /about/
       weight: 10
     - identifier: portfolio
       name: Portfolio

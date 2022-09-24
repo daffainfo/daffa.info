@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>profile on Muhammad Daffa</title>
+    <link>https://daffa.info/tags/profile/</link>
+    <description>Recent content in profile on Muhammad Daffa</description>
+    <image>
+      <url>https://daffa.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://daffa.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://daffa.info/tags/profile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://daffa.info/about/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daffa.info/about/</guid>
+      <description>Muhammad Daffa Hi! I&amp;rsquo;m Muhammad Daffa, you can call me Daffa. I started learning about cyber security between 2019 / 2020. I was interested in cybersecurity when my facebook friends posted about how they get money doing an activity called &amp;ldquo;bug bounty&amp;rdquo;. From that post, I tried to learn more about cybersecurity, especially penetration testing on website
+Don&amp;rsquo;t ever think I&amp;rsquo;m a professional penetration tester :D. There are still a lot of things about cyber security that I haven&amp;rsquo;t learned, such as doing penetration testing on Android, iOS, or even on the network.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://daffa.info/blog/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daffa.info/blog/</guid>
+      <description>Coming Soon! Still in progress migrating from Medium to this website :)</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://daffa.info/achievements/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daffa.info/achievements/</guid>
+      <description>Here are some of my achievements when doing bug hunting
+Bug Bounties and Hall of Fame Sekolah Siber Wageningen University &amp;amp; Research PostNL Holding B.V Inflectra Legally Breaking (Website Inactive) PlanetArt Yelp 2 Private Program at Hackerone Certificate Appreciation Axioo Class Program GeeksforGeeks Cambridge University Windesheim University Finansialku PixelNinja ID Bitrexgo (Website Inactive) </description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://daffa.info/portfolio/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://daffa.info/portfolio/</guid>
+      <description>Here are some of my portfolios on cybersecurity
+Bug Bounties The list below are some of the companies that recognize me as a bug hunter. Here are 5 achievements that I just got
+Hall of Fame at Sekolah Siber Hall of Fame at wur.nl Thanks list at HackerOne PlanetArt Thanks list at Private Program HackerOne Certificate Appreciation from GeeksforGeeks Click here to see the full list
+CVEs Here is a list of CVEs that I got, most of them came from vulnerabilities in wordpress.</description>
+    </item>
+    
+  </channel>
+</rss>
