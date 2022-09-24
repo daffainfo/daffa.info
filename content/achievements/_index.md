@@ -22,6 +22,7 @@ Here are some of my achievements when doing bug hunting
 - [PostNL Holding B.V](https://www.postnl.nl/en/responsible-disclosure)
 - [Inflectra](https://www.inflectra.com/company/responsible-disclosure.aspx)
 - [Legally Breaking](https://legallybreaking.com/index.php?p=/hall-fame) (Website Inactive)
+- [DIB-VDP Pilot](https://hackerone.com/dib-vdp-pilot) (Program Closed)
 - [PlanetArt](https://hackerone.com/planetart/thanks)
 - [Yelp](https://hackerone.com/yelp/thanks)
 - 2 Private Program at Hackerone
