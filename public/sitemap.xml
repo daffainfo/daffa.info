@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://daffa.info/tags/cve/</loc>
-    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-32587/</loc>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/cve-2022-38137/</loc>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/cve/</loc>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/</loc>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://daffa.info/tags/</loc>
+    <lastmod>2022-09-26T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/cve/cve-2022-36340/</loc>
     <lastmod>2022-09-23T11:30:03+00:00</lastmod>
@@ -18,15 +33,6 @@
     <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/cve/cve-2022-40194/</loc>
-    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://daffa.info/cve/</loc>
-    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://daffa.info/</loc>
-    <lastmod>2022-09-23T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://daffa.info/tags/</loc>
     <lastmod>2022-09-23T11:30:03+00:00</lastmod>
   </url><url>
     <loc>https://daffa.info/cve/cve-2022-38470/</loc>

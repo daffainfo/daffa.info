@@ -16,7 +16,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Muhammad Daffa
   description: "Portfolio by Muhammad Daffa"
-  keywords: [Blog, Portfolio]
+  keywords: [Portfolio]
   author: Muhammad Daffa
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
