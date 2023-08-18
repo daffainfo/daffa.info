@@ -14,9 +14,9 @@ ShowRssButtonInSectionTermList: false
 ---
 
 ## Muhammad Daffa
-Hi! I'm Muhammad Daffa, you can call me Daffa. I started learning about cyber security between 2019 / 2020. I was interested in cybersecurity when my facebook friends posted about how they get money doing an activity called "bug bounty". From that post, I tried to learn more about cybersecurity, especially penetration testing on website
+Hello! I'm Muhammad Daffa, but you can call me Daffa. I began delving into cybersecurity around 2019 to 2020. My interest sparked when some of my Facebook friends posted about making money through an activity known as 'bug bounty.' Intrigued by their posts, I embarked on a journey to learn more about cybersecurity, with a specific focus on website penetration testing.
 
-Don't ever think I'm a professional penetration tester :D. There are still a lot of things about cyber security that I haven't learned, such as doing penetration testing on Android, iOS, or even on the network. Right now I'm learning about malware analysis too, thanks to TCM Security <3
+Please don't mistake me for a professional penetration tester just yet! There's still a wealth of knowledge about cybersecurity that I haven't explored, such as conducting penetration tests on Android, iOS, and even within networks. At present, I'm also immersing myself in the realm of malware analysis, all thanks to TCM Security <3.
 
 ## Contact
 Contact me if you have something to discuss or if you have a great resource about cybersecurity, i'll be very happy to read about the resource :D

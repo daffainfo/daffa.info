@@ -1,6 +1,97 @@
 ---
+author: "Muhammad Daffa"
 title: "CVEs"
-layout: "archives"
-# url: "/archives"
-summary: "List of all my CVEs"
+date: "2019-03-09"
+# description: "About Muhammad Daffa"
+tags: ["profile"]
+TocOpen: true
+draft: false
+hidemeta: true
+comments: false
+searchHidden: true
+ShowBreadCrumbs: false
+ShowRssButtonInSectionTermList: false
 ---
+
+These are some of the CVEs I obtained from conducting penetration testing.
+
+## CVEs
+
+- [CVE-2023-25989](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/meks-smart-social-widget/meks-smart-social-widget-16-cross-site-request-forgery-via-meks-remove-notification)
+- [CVE-2022-47172](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woolentor-addons/woolentor-262-cross-site-request-forgery-via-process-data)
+- [CVE-2022-47169](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/visibility-logic-elementor/visibility-logic-for-elementor-234-cross-site-request-forgery-via-toggle-option)
+- [CVE-2023-23823](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/enhanced-text-widget/enhanced-text-widget-157-missing-authorization)
+- [CVE-2022-45372](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-product-gallery-slider/product-gallery-slider-for-woocommerce-228-cross-site-request-forgery)
+- [CVE-2022-33974](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/custom-twitter-feeds/custom-twitter-feeds-tweets-widget-184-cross-site-request-forgery)
+- [CVE-2022-47174](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/performance-lab/performance-lab-220-cross-site-request-forgery-via-dismiss-wp-pointer)
+- [CVE-2022-47136](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ninja-tables/ninja-tables-434-cross-site-request-forgery)
+- [CVE-2022-47178](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/simple-share-buttons-adder/simple-share-buttons-adder-846-cross-site-request-forgery)
+- [CVE-2022-47137](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ninja-tables/ninja-tables-434-authenticated-administrator-stored-cross-site-scripting-via-plugin-settings)
+- [CVE-2022-45371](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/shopengine/shopengine-411-cross-site-request-forgery)
+- [CVE-2022-33961](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yellow-pencil-visual-theme-customizer/yellowpencil-visual-css-style-editor-758-reflected-cross-site-scripting-livelink)
+- [CVE-2022-32970](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/themify-portfolio-post/themify-portfolio-post-122-authenticated-editor-stored-cross-site-scripting)
+- [CVE-2022-45367](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/custom-order-numbers-for-woocommerce/custom-order-numbers-for-woocommerce-140-cross-site-request-forgery)
+- [CVE-2022-47149](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/pretty-link/shortlinks-by-pretty-links-340-cross-site-request-forgery-via-route)
+- [CVE-2022-47161](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/health-check/health-check-troubleshooting-151-cross-site-request-forgery-via-health-check-troubleshoot-get-captures)
+- [CVE-2023-28989](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/happy-elementor-addons/happy-addons-for-elementor-382-cross-site-request-forgery-via-handle-optin-optout)
+- [CVE-2022-46793](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-product-feed-pro/product-feed-pro-for-woocommerce-1240-cross-site-request-forgery-via-update-project)
+- [CVE-2022-46795](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woocommerce-delivery-notes/print-invoice-delivery-notes-for-woocommerce-472-cross-site-request-forgery-via-ts-reset-tracking-setting)
+- [CVE-2022-46794](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/weight-based-shipping-for-woocommerce/woocommerce-weight-based-shipping-541-cross-site-request-forgery-leading-to-plugin-settings-changes)
+- [CVE-2023-27461](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/when-last-login/when-last-login-121-cross-site-request-forgery)
+- [CVE-2023-26543](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-meteor/wp-meteor-page-speed-optimization-topping-314-cross-site-request-forgery-via-processajaxnoticedismiss)
+- [CVE-2022-46851](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/astra-sites/starter-templates-elementor-wordpress-beaver-builder-templates-3120-cross-site-request-forgery-in-add-to-favorite)
+- [CVE-2022-46853](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/the-post-grid/the-post-grid-shortcode-gutenberg-blocks-and-elementor-addon-for-post-grid-504-cross-site-request-forgery-in-rttpg-spare-me)
+- [CVE-2022-46852](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-table-builder/wp-table-builder-wordpress-table-plugin-146-authenticated-admin-stored-cross-site-scripting)
+- [CVE-2022-40198](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-wallet/terawallet-for-woocommerce-1324-cross-site-request-forgery-via-admin-options)
+- [CVE-2022-47166](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/cf7-widget-elementor/void-contact-form-7-widget-for-elementor-page-builder-211-cross-site-request-forgery-in-void-cf7-opt-in-user-data-track)
+- [CVE-2022-46855](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/dk-pricr-responsive-pricing-table/responsive-pricing-table-516-authenticated-contributor-stored-cross-site-scripting)
+- [CVE-2022-46797](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/enhanced-e-commerce-for-woocommerce-store/all-in-one-google-analytics-pixels-and-product-feed-manager-for-woocommerce-523-cross-site-request-forgery)
+- [CVE-2022-46796](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-multi-currency/curcy-2125-missing-authorization-to-currency-exchange-retrieval)
+- [CVE-2022-46798](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woolentor-addons/shoplentor-251-cross-site-request-forgery-to-post-updates)
+- [CVE-2022-46848](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/visualizer/visualizer-391-authenticatedcontributor-stored-cross-site-scripting)
+- [CVE-2022-45068](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woocommerce-mercadopago/mercado-pago-payments-for-woocommerce-631-cross-site-request-forgery)
+- [CVE-2023-23711](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/a2-optimized-wp/a2-optimized-wp-304-cross-site-request-forgery)
+- [CVE-2022-45376](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/side-cart-woocommerce/side-cart-woocommerce-ajax-21-cross-site-request-forgery)
+- [CVE-2022-45076](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/flexible-elementor-panel/flexible-elementor-panel-238-cross-site-request-forgery)
+- [CVE-2022-47148](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packing-slips-325-cross-site-request-forgery)
+- [CVE-2022-47170](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/unlimited-elements-for-elementor/unlimited-elements-for-elementor-free-widgets-addons-templates-1548-authenticated-admin-cross-site-scripting-xss)
+- [CVE-2023-22700](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/pixelyoursite/pixelyoursite-930-cross-site-request-forgery)
+- [CVE-2022-45067](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/exclusive-addons-for-elementor/exclusive-addons-for-elementor-261-cross-site-request-forgery)
+- [CVE-2022-26366](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/adrotate/adrotate-banner-manager-59-cross-site-request-forgery)
+- [CVE-2022-25952](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/content-egg/content-egg-540-cross-site-request-forgery)
+- [CVE-2022-43481](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-coupons-for-woocommerce-free/advanced-coupons-for-woocommerce-coupons-45-cross-site-request-forgery)
+- [CVE-2022-43463](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yikes-inc-easy-custom-woocommerce-product-tabs/custom-product-tabs-for-woocommerce-179-authenticated-administrator-stored-cross-site-scripting)
+- [CVE-2022-36401](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-wallet/terawallet-for-woocommerce-1324-cross-site-request-forgery)
+- [CVE-2022-43488](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-dynamic-pricing-for-woocommerce/advanced-dynamic-pricing-for-woocommerce-415-cross-site-request-forgery-2)
+- [CVE-2022-40686](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/creative-mail-by-constant-contact/creative-mail-154-cross-site-request-forgery-to-plugin-deactivation)
+- [CVE-2022-40687](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/creative-mail-by-constant-contact/creative-mail-154-cross-site-request-forgery-to-settings-disconnect)
+- [CVE-2022-41805](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woocommerce-jetpack/booster-for-woocommerce-566-cross-site-request-forgery)
+- [CVE-2022-34148](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/backup/backup-guard-169-authenticated-administrator-stored-cross-site-scripting)
+- [CVE-2022-43491](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-dynamic-pricing-for-woocommerce/advanced-dynamic-pricing-for-woocommerce-415-cross-site-request-forgery)
+- [CVE-2022-38137](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-analytify/analytify-google-analytics-dashboard-for-wordpress-422-cross-site-request-forgery)
+- [CVE-2022-32776](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-ads/advanced-ads-ad-manager-adsense-1311-authenticated-administrator-stored-cross-site-scripting)
+- [CVE-2022-34654](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/manage-notification-emails/manage-notification-e-mails-182-cross-site-request-forgery-to-plugin-options-update)
+- [CVE-2022-32587](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-page-widget/wp-page-widget-39-cross-site-request-forgery)
+- [CVE-2022-36340](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/mailoptin/mailoptin-12490-missing-authorization-to-cache-deletion)
+- [CVE-2022-40132](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/seriously-simple-podcasting/seriously-simple-podcasting-2160-cross-site-request-forgery)
+- [CVE-2022-38134](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/customer-reviews-woocommerce/customer-reviews-for-woocommerce-535-multiple-unprotected-ajax-actions)
+- [CVE-2022-40194](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/customer-reviews-woocommerce/customer-reviews-for-woocommerce-535-sensitive-data-exposure)
+- [CVE-2022-38470](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/customer-reviews-woocommerce/customer-reviews-for-woocommerce-535-cross-site-request-forgery)
+- [CVE-2022-38095](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/advanced-dynamic-pricing-for-woocommerce/advanced-dynamic-pricing-for-woocommerce-413-cross-site-request-forgery-to-plugin-settings-update)
+- [CVE-2022-33177](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/booking/booking-calendar-921-cross-site-request-forgery)
+- [CVE-2022-38058](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-shamsi/wp-shamsi-411-missing-authorization-to-plugin-settings-update)
+- [CVE-2022-36282](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/search-exclude/search-exclude-126-authenticated-editor-stored-cross-site-scripting)
+- [CVE-2022-35726](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/yotuwp-easy-youtube-embed/video-gallery-youtube-playlist-channel-gallery-by-yotuwp-138-missing-authorization)
+- [CVE-2022-38703](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/maxbuttons/maxbuttons-92-authenticated-administrator-stored-cross-site-scripting)
+- [CVE-2022-34347](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/download-manager/download-manager-3248-cross-site-request-forgery-to-plugin-settings-update)
+- [CVE-2022-36346](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/maxbuttons/wordpress-button-plugin-maxbuttons-92-cross-site-request-forgery)
+- [CVE-2022-38704](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/seo-redirection/seo-redirection-plugin-301-redirect-manager-89-cross-site-request-forgery)
+- [CVE-2022-33201](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/official-mailerlite-sign-up-forms/mailerlite-signup-forms-official-157-cross-site-request-forgery)
+- [CVE-2022-27848](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/modern-events-calendar-lite/modern-events-calendar-lite-651-authenticated-admin-stored-cross-site-scripting)
+- [CVE-2022-27844](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpvivid-backuprestore/migration-backup-staging-wpvivid-0970-authenticated-arbitrary-file-read)
+- [CVE-2022-25618](https://www.wordfence.com/threat-intel/vulnerabilities/detail/wpdatatables-wordpress-tables-table-charts-plugin-2127-authenticated-admin-stored-cross-site-scripting)
+- [CVE-2022-23983](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-content-copy-protection/wp-content-copy-protection-344-cross-site-request-forgery-to-setting-update)
+- [CVE-2022-23984](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wpdiscuz/comments-wpdiscuz-7311-sensitive-information-disclosure)
+- [CVE-2021-24561](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/wp-sms/wp-sms-5412-authenticated-stored-cross-site-scripting)
+- [CVE-2021-24531](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/charitable/charitable-donation-plugin-1650-authenticated-stored-cross-site-scripting)
+- [CVE-2021-24519](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/vikrentcar/vikrentcar-car-rental-management-system-1110-authenticated-admin-stored-cross-site-scripting)

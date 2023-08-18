@@ -122,15 +122,7 @@ menu:
       name: Portfolio
       url: /portfolio/
       weight: 20
-    - identifier: blog
-      name: Blog
-      url: /blog/
-      weight: 20
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 20
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+
 pygmentsUseClasses: true
 markup:
   highlight:
