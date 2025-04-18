@@ -24,20 +24,20 @@ The list below are some of the companies that recognize me as a bug hunter. Here
 - Thanks list at HackerOne Valve
 - Certificate Appreciation from GeeksforGeeks
 
-**[Click here](https://daffa.info/bug-hunting/)** to see the full list
+**[Click here](https://daffainfo.com/bug-hunting/)** to see the full list
 
 ## CVEs
 
-Here is a list of CVEs that I got, most of them came from vulnerabilities in wordpress. I have a target which is to have **100++ CVEs**.
-- [CVE-2023-25989](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/meks-smart-social-widget/meks-smart-social-widget-16-cross-site-request-forgery-via-meks-remove-notification)
-- [CVE-2022-47172](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woolentor-addons/woolentor-262-cross-site-request-forgery-via-process-data)
-- [CVE-2022-47169](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/visibility-logic-elementor/visibility-logic-for-elementor-234-cross-site-request-forgery-via-toggle-option)
-- [CVE-2023-23823](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/enhanced-text-widget/enhanced-text-widget-157-missing-authorization)
-- [CVE-2022-45372](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/woo-product-gallery-slider/product-gallery-slider-for-woocommerce-228-cross-site-request-forgery)
+Here is a list of CVEs that I got, most of them came from vulnerabilities in wordpress. I have a target which is to have **1000++ CVEs**.
+- [CVE-2024-54252](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/booking-system/pinpoint-booking-system-1-wordpress-booking-plugin-29952-missing-authorization)
+- [CVE-2024-49311](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/edwiser-bridge/edwiser-bridge-307-authenticated-subscriber-stored-cross-site-scripting)
+- [CVE-2024-49312](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/edwiser-bridge/edwiser-bridge-307-authenticated-subscriber-server-side-request-forgery)
+- [CVE-2024-49302](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/uber-grid/wordpress-portfolio-builder-portfolio-gallery-117-authenticated-contributor-stored-cross-site-scripting)
+- [CVE-2024-49304](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/booking-system/pinpoint-booking-system-29951-cross-site-request-forgery-to-stored-cross-site-scripting)
 
-Total CVEs: **89**
+Total CVEs: **144**
 
-**[Click here](https://daffa.info/cve/)** to see the full list
+**[Click here](https://daffainfo.com/cve/)** to see the full list
 
 ## Capture The Flag
 
@@ -47,10 +47,37 @@ I started to do CTF again in 2023, and this is a list of wins we have achieved w
 
 | Event Name | Team | Ranking |
 | ---------- | ---- | ------- |
+| BackdoorCTF 2024 | ADA INDONESIA COY | 1 |
+| Bugcrowd Blackhat USA CTF 2024 | Heroes Cyber Security | 1 |
+| Bugcrowd Blackhat Asia CTF 2024 | Heroes Cyber Security | 1 |
+| Incognito 5.0 | Heroes Cyber Security | 1 |
+| Wayne State University - CTF24 | Heroes Cyber Security | 1 |
+| KnightCTF 2024 | Heroes Cyber Security | 1 |
 | DeconstruCT.F 2023 | aseng_fans_club | 1 |
 | The Odyssey CTF | aseng_fans_club | 1 |
-| BDSec CTF 2023 | HCS | 1 |
+| Pointer Overflow CTF 2023 | Heroes Cyber Security | 1 |
+| BDSec CTF 2023 | Heroes Cyber Security | 1 |
+| ACECTF 1.0 | Heroes Cyber Security | 2 |
+| Nowruz 1404 | Heroes Cyber Security | 2 |
+| Cyber Jawara CTF International 2024 | swusjack fans club | 2 |
+| Hacktrace Independence Day Competition 2024 | Duo (Tunas Abdi Pranata) | 2 |
+| SunshineCTF 2024 | Heroes Cyber Security | 2 |
+| Interlogica CTF2024 - Wastelands | welovepython<3 | 2 |
+| AirOverflow CTF - 2024 | Heroes Cyber Security | 2 |
+| UNbreakable International 2024 - Team Phase | Heroes Cyber Security | 2 |
+| h4ckc0n 2023 | TCP1P | 2 |
 | 0xLaugh CTF 2023 | TCP1P | 2 |
+| UNbreakable International 2025 - Individual Phase | - (Solo) | 3 |
+| Break the Syntax CTF 2024 | Heroes Cyber Security | 3 |
+| SwampCTF 2024 | Heroes Cyber Security | 3 |
+| 0byteCTF 2023 | - (Solo) | 3 |
+
+### Finalists CTF Competitions
+| Event Name |
+| ---------- |
+| ASEAN Student Contest on Information Security Qualification 2023 |
+| Infinity 2023 |
+| UNITY 2023 |
 
 ### Writeup Competitions
 
@@ -85,7 +112,7 @@ Here are my open source projects related to cybersecurity that I have created an
 - [bypass-403](https://github.com/daffainfo/bypass-403)
 - [bash-bounty](https://github.com/daffainfo/bash-bounty)
 - [apiguesser](https://github.com/daffainfo/apiguesser)
-- [apiguesser](https://github.com/daffainfo/apiguesser-web)
+- [apiguesser-web](https://github.com/daffainfo/apiguesser-web)
 - [mailspoof](https://github.com/daffainfo/mailspoof)
 
 ### Abandoned Projects
@@ -96,10 +123,15 @@ Here are my open source projects related to cybersecurity that I have created an
 
 ## Certifications
 
+- Certified Red Team Professional (CRTP)
+- Certified Penetration Testing Specialist (CPTS)
+- Certified Bug Bounty Hunter (CBBH)
+- Practical Web Pentest Professional (PWPP)
 - eLearnSecurity Web Application Penetration Tester eXtreme (eWPTXv2)
+- eLearnSecurity Mobile Application Penetration Tester (eMAPT)
 - eLearnSecurity Junior Penetration Tester (eJPT)
-- Certified AppSec Practitioner
-- Certfied Network Security Practicioner
+- Certfied Network Security Practicioner (CNSP)
+- Certified AppSec Practitioner (CAP)
 - Certified Secure Computer User (C/SCU)
 
 ## Misc

@@ -22,12 +22,15 @@ Here are some of my achievements when doing bug hunting
 - [PostNL Holding B.V](https://www.postnl.nl/en/responsible-disclosure)
 - [Inflectra](https://www.inflectra.com/company/responsible-disclosure.aspx)
 - [Legally Breaking](https://legallybreaking.com/index.php?p=/hall-fame) (Website Inactive)
-- [DIB-VDP Pilot](https://hackerone.com/dib-vdp-pilot) (Program Closed)
+- [DIB-VDP Pilot](https://hackerone.com/dib-vdp-pilot/thanks)
+- [MariaDB](https://hackerone.com/mariadb/thanks)
+- [Fiserv](https://hackerone.com/fiserv/thanks)
 - [PlanetArt](https://hackerone.com/planetart/thanks)
 - [Automattic](https://hackerone.com/automattic/thanks/2023)
 - [Valve](https://hackerone.com/valve/thanks/2023)
 - [Yelp](https://hackerone.com/yelp/thanks)
-- 2 Private Program at Hackerone
+- 3 Private Program at Hackerone
+- And so on
 
 ## Certificate Appreciation
 
